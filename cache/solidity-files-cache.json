@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\ishita roy\\Downloads\\Smart-Contract-Management---ETH-AVAX-main\\Smart-Contract-Management---ETH-AVAX-main\\contracts\\Georli_Testnet.sol": {
+      "lastModificationDate": 1697750983319,
+      "contentHash": "6ee1fd8ce4bd180a6b6f9b7087547942",
+      "sourceName": "contracts/Georli_Testnet.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Georli_Testnet"
+      ]
+    }
+  }
+}
